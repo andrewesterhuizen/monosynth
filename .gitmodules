@@ -1,0 +1,6 @@
+[submodule "amh"]
+	path = amh
+	url = git@github.com:andrewesterhuizen/amh.git
+[submodule "VAStateVariableFilter"]
+	path = VAStateVariableFilter
+	url = https://github.com/michaeldonovan/VAStateVariableFilter
